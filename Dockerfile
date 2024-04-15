@@ -4,6 +4,11 @@ FROM ubuntu:20.04
 # Establecer el directorio de trabajo
 WORKDIR /home
 
+RUN mkdir input && mkdir output
+
+VOLUME /home/input
+VOLUME /home/output
+
 # Copiar el archivo Build_WRF_and_WPS_V40.zip desde /inputs/ al contenedor
 COPY /Input/Build_WRF_and_WPS_V40_v2.zip /home/
 ENV DEBIAN_FRONTEND noninteractive
