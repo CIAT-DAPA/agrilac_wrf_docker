@@ -12,7 +12,6 @@ VOLUME /home/output
 
 # Copy necessary files to the container
 COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
-COPY /config/geog_high_res_mandatory.tar.gz /home/
 COPY /config/Vtable /home/
 
 # Set non-interactive mode for package installation
@@ -35,6 +34,7 @@ RUN apt-get update && apt-get install -y \
     default-jre \
     vim \
     curl \
+    wget \
     csh \
     unzip \
     && rm -rf /var/lib/apt/lists/*
@@ -42,6 +42,7 @@ RUN apt-get update && apt-get install -y \
 # Set up WRF and WPS
 RUN mkdir WRF && \
     unzip /home/Build_WRF_and_WPS_V40_v2.zip -d /home/WRF/ && \
+    wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
 # Build WRF dependencies
@@ -88,5 +89,4 @@ RUN cd /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
     export JASPERINC=/home/WRF/COMPILER_gfortran/jasper-install/include && \
     export WRF_DIR=/home/WRF/COMPILER_gfortran/WRF-4.1.2 && \
     echo "1" | ./configure && \
-    ./compile && \
-    bash
+    ./compile
