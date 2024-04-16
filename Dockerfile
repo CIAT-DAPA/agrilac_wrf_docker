@@ -12,9 +12,7 @@ VOLUME /home/output
 
 # Copy necessary files to the container
 COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
-COPY /config/geog_high_res_mandatory.tar.gz.gz.aa /home/
-COPY /config/geog_high_res_mandatory.tar.gz.gz.ab /home/
-COPY /config/geog_high_res_mandatory.tar.gz.gz.ac /home/
+COPY /config/geog_high_res_mandatory.tar.gz /home/
 COPY /config/Vtable /home/
 
 # Set non-interactive mode for package installation
@@ -44,10 +42,7 @@ RUN apt-get update && apt-get install -y \
 # Set up WRF and WPS
 RUN mkdir WRF && \
     unzip /home/Build_WRF_and_WPS_V40_v2.zip -d /home/WRF/ && \
-    cat geog_high_res_mandatory.tar.gz.gz.* | tar -xvzf - && \
-    mv geog_high_res_mandatory.tar.gz /home/WRF/ && \
-    cd /home/WRF/ && \
-    tar -xvf geog_high_res_mandatory.tar.gz
+    tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
 # Build WRF dependencies
 RUN cd /home/WRF && \
@@ -84,7 +79,7 @@ RUN export NETCDF=/home/WRF/COMPILER_gfortran/netcdf-install && \
 
 # Configure and compile WPS
 RUN cd /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
-    mv /home/Vtable /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
+    cp /home/Vtable /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
     export NETCDF=/home/WRF/COMPILER_gfortran/netcdf-install && \
     export PATH=$NETCDF/bin:${PATH} && \
     export PATH=/home/WRF/COMPILER_gfortran/mpich2-install/bin:${PATH} && \

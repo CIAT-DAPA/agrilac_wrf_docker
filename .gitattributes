@@ -2,4 +2,7 @@
 *.tar.gz.gz.ab
 *.tar.gz.gz.aa
 *.tar.gz.gz.ac
+*.tar.gz.gz.ad
+*.tar.gz.gz.ae
+*.tar.gz.gz.af
 filter=lfs diff=lfs merge=lfs -text
