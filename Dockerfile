@@ -39,6 +39,7 @@ RUN apt-get update && apt-get install -y \
     unzip \
     && rm -rf /var/lib/apt/lists/*
 
+
 # Set up WRF and WPS
 RUN mkdir WRF && \
     unzip /home/Build_WRF_and_WPS_V40_v2.zip -d /home/WRF/ && \
@@ -90,3 +91,6 @@ RUN cd /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
     export WRF_DIR=/home/WRF/COMPILER_gfortran/WRF-4.1.2 && \
     echo "1" | ./configure && \
     ./compile
+
+
+CMD ["tail", "-f", "/dev/null"]
