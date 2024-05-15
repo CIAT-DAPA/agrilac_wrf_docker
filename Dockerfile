@@ -14,6 +14,7 @@ VOLUME /home/output
 COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
 COPY /config/automation_scripts.zip /home/
 COPY /config/Vtable /home/
+COPY /config/gfs.zip /home/
 
 # Set non-interactive mode for package installation
 ENV DEBIAN_FRONTEND noninteractive
@@ -44,7 +45,10 @@ RUN apt-get update && apt-get install -y \
 # Set up WRF and WPS
 RUN mkdir WRF && \
     unzip /home/Build_WRF_and_WPS_V40_v2.zip -d /home/WRF/ && \
-    unzip /home/automation_scripts.zip -d /home/WRF/ && \
+    unzip /home/automation_scripts.zip -d /home/ && \
+    unzip /home/gfs.zip -d /home/WRF/ && \
+    mv /home/ParaHonduras/* /home/WRF/ && \
+    chmod 777 /home/WRF/EJECUTORES/RunWRF_JN_00.sh
     wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
