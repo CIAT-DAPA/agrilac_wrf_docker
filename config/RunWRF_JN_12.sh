@@ -18,19 +18,10 @@ YY=`date +%Y`
 MM=`date +%m`
 DD=`date +%d`
 
-############33
-#YY=`date --date='-4 day' +%Y`
-#MM=`date --date='-4 day' +%m`
-#DD=`date --date='-4 day' +%d`
-
-#YY=2022
-#MM=11
-#DD=01
-
 
 ###############
-P=00
-PF=00
+P=12
+PF=12
 PL=240
 
 dias=$(($PL/24))
@@ -40,15 +31,11 @@ YYf=`date --date='+'$dias' day' +%Y`
 MMf=`date --date='+'$dias' day' +%m`
 DDf=`date --date='+'$dias' day' +%d`
 
-#YYf=2022
-#MMf=11
-#DDf=03
-
 
 prefigWRFd1="wrfout_d01_"
 prefigWRFd2="wrfout_d02_"
 prefigWRFd3="wrfout_d03_"
-posfigWRF="_00:00:00"
+posfigWRF="_12:00:00"
 
 
 prefigARWd1="ARWout_d01_"
@@ -67,17 +54,16 @@ fileOut="namelistOut.wps"
 echo "Comenzando a descargar los datos del GFS: `date`"
 echo "Fecha "$fechaIni"."
 cd $EJEC_DESC
-#./get_gfs-grib2.personalizado.scr $HH $YYMMDD 0 72
-bash get_gfs-grib2_CARIBE_54h-025.sh 00
+bash get_gfs-grib2_CARIBE_54h-025.sh 12
 
 
 cd $WRFDIR
 rm GFS*
 ####Descomprimir Datos GFS###################
-cp $DATDIRWRF"/"$prefigGFS$YY$MM$DD"00.tar.gz" $WRFDIR
+cp $DATDIRWRF"/"$prefigGFS$YY$MM$DD"12.tar.gz" $WRFDIR
 cd $WRFDIR
-tar -xzvf $prefigGFS$YY$MM$DD"00.tar.gz"
-rm $prefigGFS$YY$MM$DD"00.tar.gz"
+tar -xzvf $prefigGFS$YY$MM$DD"12.tar.gz"
+rm $prefigGFS$YY$MM$DD"12.tar.gz"
 ###############################################
 
 
@@ -91,11 +77,11 @@ echo "Terminado link"
 echo "Editando fichero namelist.wps"
 #############Editar fichero namelist.wps###########
 cd $EJEC_WPS
-sed -e '1,5s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_00:00:00'\'','\'''$YY''-''$MM''-''$DD'_00:00:00'\'','\'''$YY'-'$MM'-'$DD'_00:00:00'\'','\'''$YY'-'$MM'-'$DD'_00:00:00'\'','\'''$YY'-'$MM'-'$DD'_00:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,5s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_12:00:00'\'','\'''$YY''-''$MM''-''$DD'_12:00:00'\'','\'''$YY'-'$MM'-'$DD'_12:00:00'\'','\'''$YY'-'$MM'-'$DD'_12:00:00'\'','\'''$YY'-'$MM'-'$DD'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,5s/ end_date   = .*/ end_date   = '\'''$YYf'-'$MMf'-'$DDf'_00:00:00'\'','\'''$YYf''-''$MMf''-''$DDf'_00:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_00:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,5s/ end_date   = .*/ end_date   = '\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'','\'''$YYf''-''$MMf''-''$DDf'_12:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'','\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ##################################################
@@ -252,7 +238,7 @@ echo "Terninado de correr el ARWpost"
 
 
 cd $EJEC_GRADS
-fileInt="datos00_d01_Honduras_HRes.gs"
+fileInt="datos12_d01_Honduras_HRes.gs"
 fileOut="datosOut_d01_Honduras_HRes.gs"
 echo "Editando fichero datos.gs $DOM1"
 #############Editar fichero datos.gs###################
@@ -262,12 +248,12 @@ mv  $fileOut $fileInt
 ###################
 echo "Terminado editando fichero datos.gs $DOM1"
 echo "Haciendo datos con el GRADS"
-grads -lcb "datos00_d01_Honduras_HRes.gs"
+grads -lcb "datos12_d01_Honduras_HRes.gs"
 
 
 
 cd $EJEC_GRADS
-fileInt="datos00_d02_Honduras_HRes.gs"
+fileInt="datos12_d02_Honduras_HRes.gs"
 fileOut="datosOut_d02_Honduras_HRes.gs"
 echo "Editando fichero datos.gs $DOM1"
 #############Editar fichero datos.gs###################
@@ -277,7 +263,7 @@ mv  $fileOut $fileInt
 ###################
 echo "Terminado editando fichero datos.gs $DOM1"
 echo "Haciendo datos con el GRADS"
-grads -lcb "datos00_d02_Honduras_HRes.gs
+grads -lcb "datos12_d02_Honduras_HRes.gs
 
 exit
 
