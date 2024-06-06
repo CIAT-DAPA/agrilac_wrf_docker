@@ -15,6 +15,15 @@ COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
 COPY /config/automation_scripts.zip /home/
 COPY /config/Vtable /home/
 COPY /config/gfs.zip /home/
+COPY /config/namelist.wps /home/
+COPY /config/namelist.input /home/
+COPY /config/RunWRF_JN_00.sh /home/
+COPY /config/RunWRF_JN_12.sh /home/
+COPY /config/get_gfs-grib2_CARIBE_54h-025.sh /home/
+COPY /config/datos00_d01_Honduras_HRes.gs /home/
+COPY /config/datos00_d02_Honduras_HRes.gs /home/
+COPY /config/datos12_d01_Honduras_HRes.gs /home/
+COPY /config/datos12_d02_Honduras_HRes.gs /home/
 
 # Set non-interactive mode for package installation
 ENV DEBIAN_FRONTEND noninteractive
@@ -48,8 +57,16 @@ RUN mkdir WRF && \
     unzip /home/automation_scripts.zip -d /home/ && \
     unzip /home/gfs.zip -d /home/WRF/ && \
     mv /home/ParaHonduras/* /home/WRF/ && \
+    mv /home/RunWRF_JN_00.sh /home/WRF/EJECUTORES/ && \
     chmod 777 /home/WRF/EJECUTORES/RunWRF_JN_00.sh && \
+    chmod 777 /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
     chmod 777 /home/WRF/gfs/bin/wgrib2 && \
+    chmod 777 /home/WRF/AUXILIARES/ARWpost/ARWpost.exe && \
+    mv /home/get_gfs-grib2_CARIBE_54h-025.sh /home/WRF/gfs/bin/ && \
+    mv /home/datos00_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
+    mv /home/datos00_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
+    mv /home/datos12_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
+    mv /home/datos12_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
@@ -63,9 +80,7 @@ RUN cd /home/WRF && \
     cd $HOME/WRF/Library && \
     scp /home/WRF/library.zip /root/WRF/Library && \
     unzip library.zip && \
-    cp /home/WRF/WRF-4.1.2.tar.gz /home/WRF/COMPILER_gfortran && \
-    cp /home/WRF/WPS-4.1.2.tar.gz /home/WRF/COMPILER_gfortran && \
-    cd /home/WRF/COMPILER_gfortran/ && \
+    cd /home/WRF/ && \
     tar -xvf WRF-4.1.2.tar.gz && \
     tar -xvf WPS-4.1.2.tar.gz
 
@@ -73,9 +88,9 @@ RUN cd /home/WRF && \
 RUN export NETCDF=/home/WRF/COMPILER_gfortran/netcdf-install && \
     export PATH=$NETCDF/bin:${PATH} && \
     export PATH=/home/WRF/COMPILER_gfortran/mpich2-install/bin:${PATH} && \
-    cd /home/WRF/COMPILER_gfortran/WRF-4.1.2/ && \
+    cd /home/WRF/WRF-4.1.2/ && \
     echo "34" | ./configure && \
-    cd /home/WRF/COMPILER_gfortran/WRF-4.1.2/ && \
+    cd /home/WRF/WRF-4.1.2/ && \
     export DIR=$HOME/WRF/Library && \
     export CC=gcc && \
     export CXX=g++ && \
@@ -84,20 +99,37 @@ RUN export NETCDF=/home/WRF/COMPILER_gfortran/netcdf-install && \
     export LD_LIBRARY_PATH=$DIR/lib:$LD_LIBRARY_PATH && \
     export NETCDF=$DIR && \
     export LD_LIBRARY_PATH=$DIR/lib:$LD_LIBRARY_PATH && \
-    ./compile em_real
+    ./compile em_real && \
+    mv /home/namelist.input /home/WRF/WRF-4.1.2/run/
 
 # Configure and compile WPS
-RUN cd /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
-    cp /home/Vtable /home/WRF/COMPILER_gfortran/WPS-4.1/ && \
+RUN cd /home/WRF/WPS-4.1/ && \
+    cp /home/Vtable /home/WRF/WPS-4.1/ && \
     export NETCDF=/home/WRF/COMPILER_gfortran/netcdf-install && \
     export PATH=$NETCDF/bin:${PATH} && \
     export PATH=/home/WRF/COMPILER_gfortran/mpich2-install/bin:${PATH} && \
     cp /home/WRF/COMPILER_gfortran/jasper-install/include/jasper/*.* /home/WRF/COMPILER_gfortran/jasper-install/include/ && \
     export JASPERLIB=/home/WRF/COMPILER_gfortran/jasper-install/lib && \
     export JASPERINC=/home/WRF/COMPILER_gfortran/jasper-install/include && \
-    export WRF_DIR=/home/WRF/COMPILER_gfortran/WRF-4.1.2 && \
+    export WRF_DIR=/home/WRF/WRF-4.1.2 && \
     echo "1" | ./configure && \
-    ./compile
+    ./compile && \
+    mv /home/namelist.wps /home/WRF/WPS-4.1/
+
+
+RUN cd /home/WRF/ && \
+    mkdir SALIDAS_MAPAS-00 && \
+    mkdir SALIDAS_MAPAS-12 && \
+    cd /home/WRF/SALIDAS_MAPAS-00/ && \
+    mkdir D_01 D_02
+    cd D_01/
+    mkdir ACUM_PREC HR_850_500 PRECIPITACIONES_HUR PRECIPITACIONES_VTO SST SALIDAS_CMW SALIDAS_CAVILA TEMPERATURA VIENTO
+    cd ..
+    cp -r D_01/* D_02/
+    cd ..
+    cp -r SALIDAS_MAPAS-00/* SALIDAS_MAPAS-12/
+    cd /home/WRF/WPS-4.1/ && \
+    ./geogrid.exe
 
 
 CMD ["tail", "-f", "/dev/null"]
