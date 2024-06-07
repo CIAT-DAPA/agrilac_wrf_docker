@@ -121,13 +121,13 @@ RUN cd /home/WRF/ && \
     mkdir SALIDAS_MAPAS-00 && \
     mkdir SALIDAS_MAPAS-12 && \
     cd /home/WRF/SALIDAS_MAPAS-00/ && \
-    mkdir D_01 D_02
-    cd D_01/
-    mkdir ACUM_PREC HR_850_500 PRECIPITACIONES_HUR PRECIPITACIONES_VTO SST SALIDAS_CMW SALIDAS_CAVILA TEMPERATURA VIENTO
-    cd ..
-    cp -r D_01/* D_02/
-    cd ..
-    cp -r SALIDAS_MAPAS-00/* SALIDAS_MAPAS-12/
+    mkdir D_01 D_02 && \
+    cd D_01/ && \
+    mkdir ACUM_PREC HR_850_500 PRECIPITACIONES_HUR PRECIPITACIONES_VTO SST SALIDAS_CMW SALIDAS_CAVILA TEMPERATURA VIENTO && \
+    cd .. && \
+    cp -r D_01/* D_02/ && \
+    cd .. && \
+    cp -r SALIDAS_MAPAS-00/* SALIDAS_MAPAS-12/ && \
     cd /home/WRF/WPS-4.1/ && \
     ./geogrid.exe
 
