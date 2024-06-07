@@ -59,6 +59,7 @@ RUN mkdir WRF && \
     unzip /home/gfs.zip -d /home/WRF/ && \
     mv /home/ParaHonduras/* /home/WRF/ && \
     mv /home/RunWRF_JN_00.sh /home/WRF/EJECUTORES/ && \
+    mv /home/RunWRF_JN_12.sh /home/WRF/EJECUTORES/ && \
     chmod 777 /home/WRF/EJECUTORES/RunWRF_JN_00.sh && \
     chmod 777 /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
     chmod 777 /home/WRF/gfs/bin/wgrib2 && \
