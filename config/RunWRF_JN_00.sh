@@ -196,7 +196,7 @@ sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_00:00:00'\'',
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_00:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
@@ -228,7 +228,7 @@ sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_00:00:00'\'',
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_00:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
@@ -264,20 +264,17 @@ echo "Terminado editando fichero datos.gs $DOM1"
 echo "Haciendo datos con el GRADS"
 grads -lcb "datos00_d01_Honduras_HRes.gs"
 
-
-
 cd $EJEC_GRADS
 fileInt="datos00_d02_Honduras_HRes.gs"
 fileOut="datosOut_d02_Honduras_HRes.gs"
-echo "Editando fichero datos.gs $DOM1"
+echo "Editando fichero datos.gs $DOM2"
 #############Editar fichero datos.gs###################
-sed -e '1,3s/.*open .*/'\''open '\\/'home'\\/'WRF'\\/'AUXILIARES'\\/'ARWpost'\\/''$prefigARWd2$YY'-'$MM'-'$DD'.ctl'\''''/g' $fileInt > $fileOut
+sed -e '1,3s/.*open .*/'\''open '\\/'home'\\/'WRF'\\/'AUXILIARES'\\/'ARWpost'\\/''$prefigARWd1$YY'-'$MM'-'$DD'.ctl'\''''/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ###################
-echo "Terminado editando fichero datos.gs $DOM1"
+echo "Terminado editando fichero datos.gs $DOM2"
 echo "Haciendo datos con el GRADS"
-grads -lcb "datos00_d02_Honduras_HRes.gs
-
+grads -lcb "datos00_d02_Honduras_HRes.gs"
 exit
 
