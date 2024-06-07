@@ -65,7 +65,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura superficial del mar(gC) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura superficial del mar(gC) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/SST/SST_03.png white' 
 ************************
@@ -137,7 +137,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_03.png white' 
 ************************
@@ -207,7 +207,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_06.png white' 
 *'set looping of'
@@ -274,7 +274,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_09.png white' 
 *'set looping of'
@@ -344,7 +344,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_12.png white' 
 *'set looping of'
@@ -414,7 +414,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_15.png white' 
 *'set looping of'
@@ -484,7 +484,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_18.png white' 
 *'set looping of'
@@ -554,7 +554,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_21.png white' 
 *'set looping of'
@@ -624,7 +624,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_24.png white' 
 *'set looping of'
@@ -694,7 +694,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_27.png white' 
 *'set looping of'
@@ -764,7 +764,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_30.png white' 
 *'set looping of'
@@ -834,7 +834,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_33.png white' 
 *'set looping of'
@@ -904,7 +904,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_36.png white' 
 *'set looping of'
@@ -974,7 +974,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_39.png white' 
 *'set looping of'
@@ -1044,7 +1044,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_42.png white' 
 *'set looping of'
@@ -1114,7 +1114,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_45.png white' 
 *'set looping of'
@@ -1184,7 +1184,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_48.png white' 
 *'set looping of'
@@ -1254,7 +1254,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_51.png white' 
 *'set looping of'
@@ -1324,7 +1324,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_54.png white' 
 *'set looping of'
@@ -1394,7 +1394,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_57.png white' 
 *'set looping of'
@@ -1464,7 +1464,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_60.png white' 
 *'set looping of'
@@ -1534,7 +1534,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_63.png white' 
 *'set looping of'
@@ -1604,7 +1604,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_66.png white' 
 *'set looping of'
@@ -1674,7 +1674,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_69.png white' 
 *'set looping of'
@@ -1744,7 +1744,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura en superficie(gC) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura en superficie(gC) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_72.png white' 
 *'set looping of'
@@ -1815,7 +1815,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_75.png white' 
 *'set looping of'
@@ -1885,7 +1885,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_78.png white' 
 *'set looping of'
@@ -1955,7 +1955,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_81.png white' 
 *'set looping of'
@@ -2025,7 +2025,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_84.png white' 
 *'set looping of'
@@ -2095,7 +2095,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_87.png white' 
 *'set looping of'
@@ -2165,7 +2165,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_90.png white' 
 *'set looping of'
@@ -2235,7 +2235,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_93.png white' 
 *'set looping of'
@@ -2305,7 +2305,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_96.png white' 
 *'set looping of'
@@ -2376,7 +2376,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_99.png white' 
 *'set looping of'
@@ -2448,7 +2448,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_102.png white' 
 *'set looping of'
@@ -2518,7 +2518,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_105.png white' 
 *'set looping of'
@@ -2588,7 +2588,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_108.png white' 
 *'set looping of'
@@ -2658,7 +2658,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_111.png white' 
 *'set looping of'
@@ -2728,7 +2728,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_114.png white' 
 *'set looping of'
@@ -2798,7 +2798,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_117.png white' 
 *'set looping of'
@@ -2868,7 +2868,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Temperatura de la superficie(gC) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Temperatura de la superficie(gC) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TEMPERATURA/T_2m_120.png white' 
 *'set looping of'
@@ -2943,7 +2943,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_03.png white' 
 **************************
 reset
@@ -3013,7 +3013,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_06.png white' 
 **************************
 reset
@@ -3083,7 +3083,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_09.png white' 
 **************************
 reset
@@ -3153,7 +3153,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_12.png white' 
 **************************
 reset
@@ -3223,7 +3223,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_15.png white' 
 **************************
 reset
@@ -3293,7 +3293,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_18.png white' 
 **************************
 reset
@@ -3363,7 +3363,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_21.png white' 
 **************************
 reset
@@ -3433,7 +3433,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_24.png white' 
 **************************
 reset
@@ -3503,7 +3503,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_27.png white' 
 **************************
 reset
@@ -3573,7 +3573,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_30.png white' 
 **************************
 reset
@@ -3643,7 +3643,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_33.png white' 
 **************************
 reset
@@ -3713,7 +3713,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_36.png white' 
 **************************
 reset
@@ -3783,7 +3783,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_39.png white' 
 **************************
 reset
@@ -3853,7 +3853,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_42.png white' 
 **************************
 reset
@@ -3923,7 +3923,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_45.png white' 
 **************************
 reset
@@ -3993,7 +3993,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_48.png white' 
 **************************
 
@@ -4064,7 +4064,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_51.png white' 
 **************************
 reset
@@ -4134,7 +4134,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_54.png white' 
 **************************
 
@@ -4205,7 +4205,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_57.png white' 
 **************************
 
@@ -4276,7 +4276,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_60.png white' 
 **************************
 
@@ -4347,7 +4347,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_63.png white' 
 **************************
 
@@ -4418,7 +4418,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_66.png white' 
 **************************
 
@@ -4489,7 +4489,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_69.png white' 
 **************************
 
@@ -4560,7 +4560,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_72.png white' 
 **************************
 
@@ -4634,7 +4634,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd slp'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_75.png white' 
 *'set looping of'
@@ -4711,7 +4711,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_78.png white' 
 *'set looping of'
@@ -4788,7 +4788,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_81.png white' 
 *'set looping of'
@@ -4865,7 +4865,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_84.png white' 
 *'set looping of'
@@ -4942,7 +4942,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_87.png white' 
 *'set looping of'
@@ -5019,7 +5019,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_90.png white' 
 *'set looping of'
@@ -5096,7 +5096,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_93.png white' 
 *'set looping of'
@@ -5173,7 +5173,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_96.png white' 
 *'set looping of'
@@ -5251,7 +5251,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_99.png white' 
 *'set looping of'
@@ -5330,7 +5330,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_102.png white' 
 *'set looping of'
@@ -5407,7 +5407,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_105.png white' 
 *'set looping of'
@@ -5484,7 +5484,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_108.png white' 
 *'set looping of'
@@ -5561,7 +5561,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_111.png white' 
 *'set looping of'
@@ -5638,7 +5638,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_114.png white' 
 *'set looping of'
@@ -5715,7 +5715,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_117.png white' 
 *'set looping of'
@@ -5792,7 +5792,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_120.png white' 
 *'set looping of'
@@ -5869,7 +5869,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_123.png white' 
 *'set looping of'
@@ -5947,7 +5947,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_126.png white' 
 *'set looping of'
@@ -6025,7 +6025,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_129.png white' 
 *'set looping of'
@@ -6103,7 +6103,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_132.png white' 
 *'set looping of'
@@ -6181,7 +6181,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_135.png white' 
 *'set looping of'
@@ -6259,7 +6259,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_138.png white' 
 *'set looping of'
@@ -6337,7 +6337,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_141.png white' 
 *'set looping of'
@@ -6415,7 +6415,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_144.png white' 
 *'set looping of'
@@ -6493,7 +6493,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_147.png white' 
 *'set looping of'
@@ -6571,7 +6571,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_150.png white' 
 *'set looping of'
@@ -6649,7 +6649,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_153.png white' 
 *'set looping of'
@@ -6727,7 +6727,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_156.png white' 
 *'set looping of'
@@ -6805,7 +6805,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_159.png white' 
 *'set looping of'
@@ -6883,7 +6883,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_162.png white' 
 *'set looping of'
@@ -6961,7 +6961,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_165.png white' 
 *'set looping of'
@@ -7039,7 +7039,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_HUR/Precipitaciones_168.png white' 
 *'set looping of'
@@ -7111,7 +7111,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_03.png white' 
 **************************
 reset
@@ -7177,7 +7177,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_06.png white' 
 **************************
 reset
@@ -7244,7 +7244,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_09.png white' 
 **************************
 reset
@@ -7310,7 +7310,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_12.png white' 
 **************************
 reset
@@ -7377,7 +7377,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_15.png white' 
 **************************
 reset
@@ -7444,7 +7444,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_18.png white' 
 **************************
 reset
@@ -7510,7 +7510,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_21.png white' 
 **************************
 reset
@@ -7577,7 +7577,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_24.png white' 
 **************************
 reset
@@ -7644,7 +7644,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_27.png white' 
 **************************
 reset
@@ -7712,7 +7712,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_30.png white' 
 **************************
 reset
@@ -7779,7 +7779,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_33.png white' 
 **************************
 reset
@@ -7845,7 +7845,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_36.png white' 
 **************************
 reset
@@ -7913,7 +7913,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_39.png white' 
 **************************
 reset
@@ -7980,7 +7980,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_42.png white' 
 **************************
 reset
@@ -8047,7 +8047,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_45.png white' 
 **************************
 reset
@@ -8114,7 +8114,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_48.png white' 
 **************************
 
@@ -8182,7 +8182,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_51.png white' 
 **************************
 reset
@@ -8250,7 +8250,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_54.png white' 
 **************************
 
@@ -8318,7 +8318,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_57.png white' 
 **************************
 
@@ -8385,7 +8385,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_60.png white' 
 **************************
 
@@ -8452,7 +8452,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_63.png white' 
 **************************
 
@@ -8519,7 +8519,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_66.png white' 
 **************************
 
@@ -8586,7 +8586,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_69.png white' 
 **************************
 
@@ -8653,7 +8653,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_72.png white' 
 **************************
 
@@ -8723,7 +8723,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_75.png white' 
 *'set looping of'
@@ -8794,7 +8794,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_78.png white' 
 *'set looping of'
@@ -8865,7 +8865,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_81.png white' 
 *'set looping of'
@@ -8936,7 +8936,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_84.png white' 
 *'set looping of'
@@ -9007,7 +9007,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_87.png white' 
 *'set looping of'
@@ -9078,7 +9078,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_90.png white' 
 *'set looping of'
@@ -9149,7 +9149,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_93.png white' 
 *'set looping of'
@@ -9220,7 +9220,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_96.png white' 
 *'set looping of'
@@ -9292,7 +9292,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_99.png white' 
 *'set looping of'
@@ -9365,7 +9365,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_102.png white' 
 *'set looping of'
@@ -9436,7 +9436,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_105.png white' 
 *'set looping of'
@@ -9507,7 +9507,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_108.png white' 
 *'set looping of'
@@ -9578,7 +9578,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_111.png white' 
 *'set looping of'
@@ -9649,7 +9649,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_114.png white' 
 *'set looping of'
@@ -9720,7 +9720,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_117.png white' 
 *'set looping of'
@@ -9791,7 +9791,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_120.png white' 
 *'set looping of'
@@ -9865,7 +9865,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_123.png white' 
 *'set looping of'
@@ -9937,7 +9937,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_126.png white' 
 *'set looping of'
@@ -10009,7 +10009,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_129.png white' 
 *'set looping of'
@@ -10081,7 +10081,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_132.png white' 
 *'set looping of'
@@ -10153,7 +10153,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_135.png white' 
 *'set looping of'
@@ -10225,7 +10225,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_138.png white' 
 *'set looping of'
@@ -10297,7 +10297,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_141.png white' 
 *'set looping of'
@@ -10369,7 +10369,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_144.png white' 
 *'set looping of'
@@ -10441,7 +10441,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_147.png white' 
 *'set looping of'
@@ -10513,7 +10513,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_150.png white' 
 *'set looping of'
@@ -10585,7 +10585,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_153.png white' 
 *'set looping of'
@@ -10657,7 +10657,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_156.png white' 
 *'set looping of'
@@ -10729,7 +10729,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_159.png white' 
 *'set looping of'
@@ -10801,7 +10801,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_162.png white' 
 *'set looping of'
@@ -10873,7 +10873,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_165.png white' 
 *'set looping of'
@@ -10945,7 +10945,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES/Precipitaciones_168.png white' 
 *'set looping of'
@@ -11021,7 +11021,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 
-'draw title INI_00UTC: Precipitaciones(mm/3h) y vector Vto en Sup. +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y vector Vto en Sup. +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_03.png white' 
 **************************
 reset
@@ -11090,7 +11090,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y vector Vto en Sup. +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y vector Vto en Sup. +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_06.png white' 
 **************************
 reset
@@ -11160,7 +11160,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_09.png white' 
 **************************
 reset
@@ -11229,7 +11229,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_12.png white' 
 **************************
 reset
@@ -11299,7 +11299,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_15.png white' 
 **************************
 reset
@@ -11369,7 +11369,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_18.png white' 
 **************************
 reset
@@ -11438,7 +11438,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_21.png white' 
 **************************
 reset
@@ -11508,7 +11508,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_24.png white' 
 **************************
 reset
@@ -11578,7 +11578,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_27.png white' 
 **************************
 reset
@@ -11649,7 +11649,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_30.png white' 
 **************************
 reset
@@ -11719,7 +11719,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_33.png white' 
 **************************
 reset
@@ -11788,7 +11788,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_36.png white' 
 **************************
 reset
@@ -11859,7 +11859,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_39.png white' 
 **************************
 reset
@@ -11929,7 +11929,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_42.png white' 
 **************************
 reset
@@ -11999,7 +11999,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_45.png white' 
 **************************
 reset
@@ -12069,7 +12069,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_48.png white' 
 **************************
 
@@ -12140,7 +12140,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_51.png white' 
 **************************
 reset
@@ -12211,7 +12211,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_54.png white' 
 **************************
 
@@ -12282,7 +12282,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_57.png white' 
 **************************
 
@@ -12352,7 +12352,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_60.png white' 
 **************************
 
@@ -12422,7 +12422,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_63.png white' 
 **************************
 
@@ -12492,7 +12492,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_66.png white' 
 **************************
 
@@ -12562,7 +12562,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_69.png white' 
 **************************
 
@@ -12632,7 +12632,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_72.png white' 
 **************************
 
@@ -12704,7 +12704,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'set gxout vector'
 'd skip (u10,9);v10'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_75.png white' 
 *'set looping of'
@@ -12779,7 +12779,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'd skip (u10,9);v10'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_78.png white' 
 *'set looping of'
@@ -12855,7 +12855,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_81.png white' 
 *'set looping of'
@@ -12931,7 +12931,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_84.png white' 
 *'set looping of'
@@ -13007,7 +13007,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_87.png white' 
 *'set looping of'
@@ -13083,7 +13083,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_90.png white' 
 *'set looping of'
@@ -13159,7 +13159,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_93.png white' 
 *'set looping of'
@@ -13235,7 +13235,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_96.png white' 
 *'set looping of'
@@ -13312,7 +13312,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_99.png white' 
 *'set looping of'
@@ -13390,7 +13390,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_102.png white' 
 *'set looping of'
@@ -13466,7 +13466,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_105.png white' 
 *'set looping of'
@@ -13542,7 +13542,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_108.png white' 
 *'set looping of'
@@ -13618,7 +13618,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_111.png white' 
 *'set looping of'
@@ -13694,7 +13694,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_114.png white' 
 *'set looping of'
@@ -13770,7 +13770,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_117.png white' 
 *'set looping of'
@@ -13846,7 +13846,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_120.png white' 
 *'set looping of'
@@ -13923,7 +13923,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +123h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_123.png white' 
 *'set looping of'
@@ -13999,7 +13999,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +126h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_126.png white' 
 *'set looping of'
@@ -14075,7 +14075,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +129h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_129.png white' 
 *'set looping of'
@@ -14151,7 +14151,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +132h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_132.png white' 
 *'set looping of'
@@ -14227,7 +14227,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +135h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_135.png white' 
 *'set looping of'
@@ -14303,7 +14303,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +138h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_138.png white' 
 *'set looping of'
@@ -14379,7 +14379,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +141h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_141.png white' 
 *'set looping of'
@@ -14455,7 +14455,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +144h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_144.png white' 
 *'set looping of'
@@ -14531,7 +14531,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +147h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_147.png white' 
 *'set looping of'
@@ -14607,7 +14607,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +150h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_150.png white' 
 *'set looping of'
@@ -14683,7 +14683,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +153h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_153.png white' 
 *'set looping of'
@@ -14759,7 +14759,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +156h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_156.png white' 
 *'set looping of'
@@ -14835,7 +14835,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +159h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_159.png white' 
 *'set looping of'
@@ -14911,7 +14911,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +162h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_162.png white' 
 *'set looping of'
@@ -14987,7 +14987,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +165h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_165.png white' 
 *'set looping of'
@@ -15063,7 +15063,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones (mm/3h) +168h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/PRECIPITACIONES_VTO/Precipitaciones_168.png white' 
 *'set looping of'
@@ -15138,7 +15138,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_03.png white' 
@@ -15213,7 +15213,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_06.png white' 
 *'set looping of'
@@ -15284,7 +15284,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_09.png white' 
 *'set looping of'
@@ -15361,7 +15361,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_12.png white' 
 *'set looping of'
@@ -15434,7 +15434,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_15.png white' 
 *'set looping of'
@@ -15507,7 +15507,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_18.png white' 
 *'set looping of'
@@ -15580,7 +15580,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_21.png white' 
 *'set looping of'
@@ -15657,7 +15657,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_24.png white' 
 *'set looping of'
@@ -15734,7 +15734,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_27.png white' 
 *'set looping of'
@@ -15811,7 +15811,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_30.png white' 
 *'set looping of'
@@ -15888,7 +15888,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_33.png white' 
 *'set looping of'
@@ -15965,7 +15965,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_36.png white' 
 *'set looping of'
@@ -16042,7 +16042,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_39.png white' 
 *'set looping of'
@@ -16119,7 +16119,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_42.png white' 
 *'set looping of'
@@ -16196,7 +16196,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_45.png white' 
 *'set looping of'
@@ -16273,7 +16273,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_48.png white' 
 *'set looping of'
@@ -16350,7 +16350,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_51.png white' 
 *'set looping of'
@@ -16427,7 +16427,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_54.png white' 
 *'set looping of'
@@ -16504,7 +16504,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_57.png white' 
 *'set looping of'
@@ -16581,7 +16581,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_60.png white' 
 *'set looping of'
@@ -16658,7 +16658,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_63.png white' 
 *'set looping of'
@@ -16735,7 +16735,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_66.png white' 
 *'set looping of'
@@ -16812,7 +16812,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_69.png white' 
 *'set looping of'
@@ -16889,7 +16889,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_72.png white' 
 *'set looping of'
@@ -16969,7 +16969,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_75.png white' 
 *'set looping of'
@@ -17046,7 +17046,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_78.png white' 
 *'set looping of'
@@ -17123,7 +17123,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_81.png white' 
 *'set looping of'
@@ -17200,7 +17200,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_84.png white' 
 *'set looping of'
@@ -17277,7 +17277,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_87.png white' 
 *'set looping of'
@@ -17354,7 +17354,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_90.png white' 
 *'set looping of'
@@ -17431,7 +17431,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_93.png white' 
 *'set looping of'
@@ -17508,7 +17508,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto Sup.(m/s) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_96.png white' 
 *'set looping of'
@@ -17585,7 +17585,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_99.png white' 
 *'set looping of'
@@ -17662,7 +17662,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_102.png white' 
 *'set looping of'
@@ -17739,7 +17739,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_105.png white' 
 *'set looping of'
@@ -17816,7 +17816,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_108.png white' 
 *'set looping of'
@@ -17893,7 +17893,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_111.png white' 
 *'set looping of'
@@ -17970,7 +17970,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_114.png white' 
 *'set looping of'
@@ -18047,7 +18047,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_117.png white' 
 *'set looping of'
@@ -18125,7 +18125,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto sup.(m/s) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_SUP/FV_10m_120.png white' 
 *'set looping of'
@@ -18196,7 +18196,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa.+03h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa.+03h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_03.png white' 
@@ -18267,7 +18267,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +06h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +06h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_06.png white' 
 *'set looping of'
@@ -18337,7 +18337,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +09h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +09h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_09.png white' 
 *'set looping of'
@@ -18413,7 +18413,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +12h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +12h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_12.png white' 
 *'set looping of'
@@ -18485,7 +18485,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +15h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +15h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_15.png white' 
 *'set looping of'
@@ -18557,7 +18557,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +18h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +18h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_18.png white' 
 *'set looping of'
@@ -18630,7 +18630,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +21h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +21h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_21.png white' 
 *'set looping of'
@@ -18707,7 +18707,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +24h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +24h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_24.png white' 
 *'set looping of'
@@ -18780,7 +18780,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +27h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +27h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_27.png white' 
 *'set looping of'
@@ -18853,7 +18853,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +30h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +30h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_30.png white' 
 *'set looping of'
@@ -18926,7 +18926,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +33h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +33h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_33.png white' 
 *'set looping of'
@@ -18999,7 +18999,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +36h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +36h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_36.png white' 
 *'set looping of'
@@ -19072,7 +19072,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +39h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +39h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_39.png white' 
 *'set looping of'
@@ -19145,7 +19145,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +42h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +42h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_42.png white' 
 *'set looping of'
@@ -19218,7 +19218,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +45h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +45h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_45.png white' 
 *'set looping of'
@@ -19291,7 +19291,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +48h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +48h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_48.png white' 
 *'set looping of'
@@ -19364,7 +19364,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +51h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +51h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_51.png white' 
 *'set looping of'
@@ -19437,7 +19437,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +54h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +54h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_54.png white' 
 *'set looping of'
@@ -19510,7 +19510,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +57h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +57h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_57.png white' 
 *'set looping of'
@@ -19583,7 +19583,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +60h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +60h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_60.png white' 
 *'set looping of'
@@ -19655,7 +19655,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +63h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +63h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_63.png white' 
 *'set looping of'
@@ -19728,7 +19728,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +66h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +66h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_66.png white' 
 *'set looping of'
@@ -19800,7 +19800,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +69h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +69h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_69.png white' 
 *'set looping of'
@@ -19872,7 +19872,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +72h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +72h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_72.png white' 
 *'set looping of'
@@ -19944,7 +19944,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +75h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +75h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_75.png white' 
 *'set looping of'
@@ -20016,7 +20016,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +78h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +78h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_78.png white' 
 *'set looping of'
@@ -20088,7 +20088,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +81h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +81h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_81.png white' 
 *'set looping of'
@@ -20160,7 +20160,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +84h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +84h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_84.png white' 
 *'set looping of'
@@ -20232,7 +20232,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +87h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +87h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_87.png white' 
 *'set looping of'
@@ -20304,7 +20304,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +90h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +90h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_90.png white' 
 *'set looping of'
@@ -20376,7 +20376,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +93h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +93h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_93.png white' 
 *'set looping of'
@@ -20448,7 +20448,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +96h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: HR media(%) 850-500hPa. +96h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_96.png white' 
 *'set looping of'
@@ -20520,7 +20520,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +99h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +99h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_99.png white' 
 *'set looping of'
@@ -20592,7 +20592,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +102h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +102h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_102.png white' 
 *'set looping of'
@@ -20664,7 +20664,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +105h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +105h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_105.png white' 
 *'set looping of'
@@ -20736,7 +20736,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +108h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +108h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_108.png white' 
 *'set looping of'
@@ -20808,7 +20808,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +111h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +111h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_111.png white' 
 *'set looping of'
@@ -20880,7 +20880,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +114h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +114h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_114.png white' 
 *'set looping of'
@@ -20952,7 +20952,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +117h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +117h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_117.png white' 
 *'set looping of'
@@ -21025,7 +21025,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u10,9);v10'
-'draw title INI_00UTC: HR media(%) 850-500hPa. +120h y Vto Sup.(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: HR media(%) 850-500hPa. +120h y Vto Sup.(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/HR_850-500/HR850-500_120.png white' 
 *'set looping of'
@@ -21092,7 +21092,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/3h) y Vto Sup. +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'printim /home/WRF/SALIDAS_MAPAS-00/D_01/Precipitaciones_03.png white' 
 **************************
 
@@ -21157,7 +21157,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/24h) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/24h) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/ACUM_PREC/Precipitaciones_36.png white' 
 **************************
 reset
@@ -21221,7 +21221,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/24h) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/24h) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/ACUM_PREC/Precipitaciones_60.png white' 
 **************************
 ************************
@@ -21286,7 +21286,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/24h) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/24h) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/ACUM_PREC/Precipitaciones_84.png white' 
 **************************
 ************************
@@ -21352,7 +21352,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 7.4 COLOMBIA'
 
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Precipitaciones(mm/48h) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Precipitaciones(mm/48h) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/ACUM_PREC/Precipitaciones_60_2d.png white' 
 **************************
 
@@ -21423,7 +21423,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_03.png white' 
@@ -21498,7 +21498,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_06.png white' 
 *'set looping of'
@@ -21569,7 +21569,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_09.png white' 
 *'set looping of'
@@ -21646,7 +21646,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_12.png white' 
 *'set looping of'
@@ -21719,7 +21719,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_15.png white' 
 *'set looping of'
@@ -21792,7 +21792,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_18.png white' 
 *'set looping of'
@@ -21865,7 +21865,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_21.png white' 
 *'set looping of'
@@ -21942,7 +21942,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_24.png white' 
 *'set looping of'
@@ -22019,7 +22019,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_27.png white' 
 *'set looping of'
@@ -22096,7 +22096,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_30.png white' 
 *'set looping of'
@@ -22173,7 +22173,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_33.png white' 
 *'set looping of'
@@ -22250,7 +22250,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_36.png white' 
 *'set looping of'
@@ -22327,7 +22327,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_39.png white' 
 *'set looping of'
@@ -22404,7 +22404,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_42.png white' 
 *'set looping of'
@@ -22481,7 +22481,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_45.png white' 
 *'set looping of'
@@ -22558,7 +22558,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_48.png white' 
 *'set looping of'
@@ -22635,7 +22635,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_51.png white' 
 *'set looping of'
@@ -22712,7 +22712,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_54.png white' 
 *'set looping of'
@@ -22789,7 +22789,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_57.png white' 
 *'set looping of'
@@ -22866,7 +22866,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_60.png white' 
 *'set looping of'
@@ -22943,7 +22943,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_63.png white' 
 *'set looping of'
@@ -23020,7 +23020,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_66.png white' 
 *'set looping of'
@@ -23097,7 +23097,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_69.png white' 
 *'set looping of'
@@ -23174,7 +23174,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_72.png white' 
 *'set looping of'
@@ -23254,7 +23254,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_75.png white' 
 *'set looping of'
@@ -23331,7 +23331,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_78.png white' 
 *'set looping of'
@@ -23408,7 +23408,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_81.png white' 
 *'set looping of'
@@ -23485,7 +23485,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_84.png white' 
 *'set looping of'
@@ -23562,7 +23562,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_87.png white' 
 *'set looping of'
@@ -23639,7 +23639,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_90.png white' 
 *'set looping of'
@@ -23716,7 +23716,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_93.png white' 
 *'set looping of'
@@ -23793,7 +23793,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_96.png white' 
 *'set looping of'
@@ -23870,7 +23870,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_99.png white' 
 *'set looping of'
@@ -23947,7 +23947,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_102.png white' 
 *'set looping of'
@@ -24024,7 +24024,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_105.png white' 
 *'set looping of'
@@ -24101,7 +24101,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_108.png white' 
 *'set looping of'
@@ -24178,7 +24178,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_111.png white' 
 *'set looping of'
@@ -24255,7 +24255,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_114.png white' 
 *'set looping of'
@@ -24332,7 +24332,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_117.png white' 
 *'set looping of'
@@ -24410,7 +24410,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 850hPa (m/s) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_850/FV_850hPa_120.png white' 
 *'set looping of'
@@ -24484,7 +24484,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_03.png white' 
@@ -24559,7 +24559,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_06.png white' 
 *'set looping of'
@@ -24630,7 +24630,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_09.png white' 
 *'set looping of'
@@ -24707,7 +24707,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_12.png white' 
 *'set looping of'
@@ -24780,7 +24780,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_15.png white' 
 *'set looping of'
@@ -24853,7 +24853,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_18.png white' 
 *'set looping of'
@@ -24926,7 +24926,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_21.png white' 
 *'set looping of'
@@ -25003,7 +25003,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_24.png white' 
 *'set looping of'
@@ -25080,7 +25080,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_27.png white' 
 *'set looping of'
@@ -25157,7 +25157,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_30.png white' 
 *'set looping of'
@@ -25234,7 +25234,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_33.png white' 
 *'set looping of'
@@ -25311,7 +25311,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_36.png white' 
 *'set looping of'
@@ -25388,7 +25388,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_39.png white' 
 *'set looping of'
@@ -25465,7 +25465,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_42.png white' 
 *'set looping of'
@@ -25542,7 +25542,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_45.png white' 
 *'set looping of'
@@ -25619,7 +25619,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_48.png white' 
 *'set looping of'
@@ -25696,7 +25696,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_51.png white' 
 *'set looping of'
@@ -25773,7 +25773,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_54.png white' 
 *'set looping of'
@@ -25850,7 +25850,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_57.png white' 
 *'set looping of'
@@ -25927,7 +25927,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_60.png white' 
 *'set looping of'
@@ -26004,7 +26004,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_63.png white' 
 *'set looping of'
@@ -26081,7 +26081,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_66.png white' 
 *'set looping of'
@@ -26158,7 +26158,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_69.png white' 
 *'set looping of'
@@ -26235,7 +26235,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_72.png white' 
 *'set looping of'
@@ -26315,7 +26315,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_75.png white' 
 *'set looping of'
@@ -26392,7 +26392,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_78.png white' 
 *'set looping of'
@@ -26469,7 +26469,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_81.png white' 
 *'set looping of'
@@ -26546,7 +26546,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_84.png white' 
 *'set looping of'
@@ -26623,7 +26623,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_87.png white' 
 *'set looping of'
@@ -26700,7 +26700,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_90.png white' 
 *'set looping of'
@@ -26777,7 +26777,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_93.png white' 
 *'set looping of'
@@ -26854,7 +26854,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_96.png white' 
 *'set looping of'
@@ -26931,7 +26931,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_99.png white' 
 *'set looping of'
@@ -27008,7 +27008,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_102.png white' 
 *'set looping of'
@@ -27085,7 +27085,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_105.png white' 
 *'set looping of'
@@ -27162,7 +27162,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_108.png white' 
 *'set looping of'
@@ -27239,7 +27239,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_111.png white' 
 *'set looping of'
@@ -27316,7 +27316,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_114.png white' 
 *'set looping of'
@@ -27393,7 +27393,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_117.png white' 
 *'set looping of'
@@ -27471,7 +27471,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 700hPa (m/s) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_700/FV_700hPa_120.png white' 
 *'set looping of'
@@ -27544,7 +27544,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_03.png white' 
@@ -27619,7 +27619,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_06.png white' 
 *'set looping of'
@@ -27690,7 +27690,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_09.png white' 
 *'set looping of'
@@ -27767,7 +27767,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_12.png white' 
 *'set looping of'
@@ -27840,7 +27840,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_15.png white' 
 *'set looping of'
@@ -27913,7 +27913,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_18.png white' 
 *'set looping of'
@@ -27986,7 +27986,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_21.png white' 
 *'set looping of'
@@ -28063,7 +28063,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_24.png white' 
 *'set looping of'
@@ -28140,7 +28140,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_27.png white' 
 *'set looping of'
@@ -28217,7 +28217,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_30.png white' 
 *'set looping of'
@@ -28294,7 +28294,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_33.png white' 
 *'set looping of'
@@ -28371,7 +28371,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_36.png white' 
 *'set looping of'
@@ -28448,7 +28448,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_39.png white' 
 *'set looping of'
@@ -28525,7 +28525,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_42.png white' 
 *'set looping of'
@@ -28602,7 +28602,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_45.png white' 
 *'set looping of'
@@ -28679,7 +28679,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_48.png white' 
 *'set looping of'
@@ -28756,7 +28756,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_51.png white' 
 *'set looping of'
@@ -28833,7 +28833,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_54.png white' 
 *'set looping of'
@@ -28910,7 +28910,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_57.png white' 
 *'set looping of'
@@ -28987,7 +28987,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_60.png white' 
 *'set looping of'
@@ -29064,7 +29064,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_63.png white' 
 *'set looping of'
@@ -29141,7 +29141,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_66.png white' 
 *'set looping of'
@@ -29218,7 +29218,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_69.png white' 
 *'set looping of'
@@ -29295,7 +29295,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_72.png white' 
 *'set looping of'
@@ -29375,7 +29375,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_75.png white' 
 *'set looping of'
@@ -29452,7 +29452,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_78.png white' 
 *'set looping of'
@@ -29529,7 +29529,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_81.png white' 
 *'set looping of'
@@ -29606,7 +29606,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_84.png white' 
 *'set looping of'
@@ -29683,7 +29683,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_87.png white' 
 *'set looping of'
@@ -29760,7 +29760,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_90.png white' 
 *'set looping of'
@@ -29837,7 +29837,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_93.png white' 
 *'set looping of'
@@ -29914,7 +29914,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_96.png white' 
 *'set looping of'
@@ -29991,7 +29991,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_99.png white' 
 *'set looping of'
@@ -30068,7 +30068,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_102.png white' 
 *'set looping of'
@@ -30145,7 +30145,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_105.png white' 
 *'set looping of'
@@ -30222,7 +30222,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_108.png white' 
 *'set looping of'
@@ -30299,7 +30299,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_111.png white' 
 *'set looping of'
@@ -30376,7 +30376,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_114.png white' 
 *'set looping of'
@@ -30453,7 +30453,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_117.png white' 
 *'set looping of'
@@ -30531,7 +30531,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 500hPa (m/s) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_500/FV_500hPa_120.png white' 
 *'set looping of'
@@ -30604,7 +30604,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set loopdim 1 5'
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_03.png white' 
@@ -30679,7 +30679,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_06.png white' 
 *'set looping of'
@@ -30750,7 +30750,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_09.png white' 
 *'set looping of'
@@ -30827,7 +30827,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_12.png white' 
 *'set looping of'
@@ -30900,7 +30900,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_15.png white' 
 *'set looping of'
@@ -30973,7 +30973,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_18.png white' 
 *'set looping of'
@@ -31046,7 +31046,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_21.png white' 
 *'set looping of'
@@ -31123,7 +31123,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_24.png white' 
 *'set looping of'
@@ -31200,7 +31200,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_27.png white' 
 *'set looping of'
@@ -31277,7 +31277,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_30.png white' 
 *'set looping of'
@@ -31354,7 +31354,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_33.png white' 
 *'set looping of'
@@ -31431,7 +31431,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_36.png white' 
 *'set looping of'
@@ -31508,7 +31508,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_39.png white' 
 *'set looping of'
@@ -31585,7 +31585,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_42.png white' 
 *'set looping of'
@@ -31662,7 +31662,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_45.png white' 
 *'set looping of'
@@ -31739,7 +31739,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_48.png white' 
 *'set looping of'
@@ -31816,7 +31816,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_51.png white' 
 *'set looping of'
@@ -31893,7 +31893,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_54.png white' 
 *'set looping of'
@@ -31970,7 +31970,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_57.png white' 
 *'set looping of'
@@ -32047,7 +32047,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_60.png white' 
 *'set looping of'
@@ -32124,7 +32124,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_63.png white' 
 *'set looping of'
@@ -32201,7 +32201,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_66.png white' 
 *'set looping of'
@@ -32278,7 +32278,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_69.png white' 
 *'set looping of'
@@ -32355,7 +32355,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_72.png white' 
 *'set looping of'
@@ -32435,7 +32435,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +75h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +75h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_75.png white' 
 *'set looping of'
@@ -32512,7 +32512,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +78h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +78h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_78.png white' 
 *'set looping of'
@@ -32589,7 +32589,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +81h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +81h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_81.png white' 
 *'set looping of'
@@ -32666,7 +32666,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +84h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +84h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_84.png white' 
 *'set looping of'
@@ -32743,7 +32743,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +87h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +87h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_87.png white' 
 *'set looping of'
@@ -32820,7 +32820,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +90h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +90h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_90.png white' 
 *'set looping of'
@@ -32897,7 +32897,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +93h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +93h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_93.png white' 
 *'set looping of'
@@ -32974,7 +32974,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +96h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +96h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_96.png white' 
 *'set looping of'
@@ -33051,7 +33051,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +99h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +99h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_99.png white' 
 *'set looping of'
@@ -33128,7 +33128,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +102h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +102h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_102.png white' 
 *'set looping of'
@@ -33205,7 +33205,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +105h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +105h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_105.png white' 
 *'set looping of'
@@ -33282,7 +33282,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +108h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +108h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_108.png white' 
 *'set looping of'
@@ -33359,7 +33359,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +111h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +111h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_111.png white' 
 *'set looping of'
@@ -33436,7 +33436,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +114h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +114h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_114.png white' 
 *'set looping of'
@@ -33513,7 +33513,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +117h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +117h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_117.png white' 
 *'set looping of'
@@ -33591,7 +33591,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
 'set gxout vector'
 'd skip (u,5);v'
-'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +120h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Direccion y fza del Vto 200hPa (m/s) +120h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/VIENTO/VIENTO_200/FV_200hPa_120.png white' 
 *'set looping of'
@@ -33683,7 +33683,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_03.png white' 
 ************************
@@ -33773,7 +33773,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_06.png white' 
 ************************
@@ -33865,7 +33865,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_09.png white' 
 ************************
@@ -33957,7 +33957,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_12.png white' 
 ************************
@@ -34047,7 +34047,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_15.png white' 
 ************************
@@ -34139,7 +34139,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_18.png white' 
 ************************
@@ -34231,7 +34231,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_21.png white' 
 ************************
@@ -34323,7 +34323,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_24.png white' 
 ************************
@@ -34415,7 +34415,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_27.png white' 
 ************************
@@ -34507,7 +34507,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_30.png white' 
 ************************
@@ -34599,7 +34599,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_33.png white' 
 ************************
@@ -34691,7 +34691,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_36.png white' 
 ************************
@@ -34783,7 +34783,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_39.png white' 
 ************************
@@ -34875,7 +34875,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_42.png white' 
 ************************
@@ -34967,7 +34967,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_45.png white' 
 ************************
@@ -35059,7 +35059,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_48.png white' 
 ************************
@@ -35150,7 +35150,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_51.png white' 
 ************************
@@ -35241,7 +35241,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_54.png white' 
 ************************
@@ -35332,7 +35332,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_57.png white' 
 ************************
@@ -35423,7 +35423,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_60.png white' 
 ************************
@@ -35515,7 +35515,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_63.png white' 
 ************************
@@ -35606,7 +35606,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_66.png white' 
 ************************
@@ -35697,7 +35697,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_69.png white' 
 ************************
@@ -35788,7 +35788,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice TT(gC) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice TT(gC) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/TOTAL-TOTAL/TT_72.png white' 
 ************************
@@ -35887,7 +35887,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +03h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +03h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_03.png white' 
 ************************
@@ -35984,7 +35984,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +06h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +06h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_06.png white' 
 ************************
@@ -36083,7 +36083,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +09h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +09h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_09.png white' 
 ************************
@@ -36183,7 +36183,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +12h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +12h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_12.png white' 
 ************************
@@ -36281,7 +36281,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +15h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +15h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_15.png white' 
 ************************
@@ -36381,7 +36381,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +18h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +18h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_18.png white' 
 ************************
@@ -36481,7 +36481,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +21h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +21h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_21.png white' 
 ************************
@@ -36581,7 +36581,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +24h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +24h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_24.png white' 
 ************************
@@ -36681,7 +36681,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +27h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +27h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_27.png white' 
 ************************
@@ -36781,7 +36781,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +30h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +30h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_30.png white' 
 ************************
@@ -36881,7 +36881,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +33h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +33h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_33.png white' 
 ************************
@@ -36981,7 +36981,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +36h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +36h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_36.png white' 
 ************************
@@ -37081,7 +37081,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +39h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +39h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_39.png white' 
 ************************
@@ -37181,7 +37181,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +42h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +42h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_42.png white' 
 ************************
@@ -37281,7 +37281,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +45h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +45h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_45.png white' 
 ************************
@@ -37381,7 +37381,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +48h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +48h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_48.png white' 
 ************************
@@ -37480,7 +37480,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +51h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +51h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_51.png white' 
 ************************
@@ -37579,7 +37579,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +54h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +54h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_54.png white' 
 ************************
@@ -37678,7 +37678,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +57h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +57h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_57.png white' 
 ************************
@@ -37777,7 +37777,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +60h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +60h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_60.png white' 
 ************************
@@ -37876,7 +37876,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +63h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +63h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_63.png white' 
 ************************
@@ -37975,7 +37975,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +66h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +66h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_66.png white' 
 ************************
@@ -38074,7 +38074,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +69h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +69h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_69.png white' 
 ************************
@@ -38173,7 +38173,7 @@ fecha=tset' 'tday'-'tmn'-'tyr' 'thr' UTC'
 *'draw string 5.2 5.3 *Tarapoto'
 *'draw string 5.2 7.4 COLOMBIA'
 'draw shp /home/WRF/AUXILIARES/SHAPES/PAISES/Paises_Mundo.shp'
-'draw title INI_00UTC: Indice K(gC) +72h(Por: Dr.Aldo Moya)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
+'draw title INI_00UTC: Indice K(gC) +72h(Por: COPECO-CENAOS)\Valido para las 'thr 'UTC del 'tday'-'tmn'-'tyr
 *'set looping on'
 'printim /home/WRF/SALIDAS_MAPAS-00/D_01/INDICE-K/IK_72.png white' 
 ************************
