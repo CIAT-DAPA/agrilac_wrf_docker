@@ -15,6 +15,7 @@ COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
 COPY /config/automation_scripts.zip /home/
 COPY /config/Vtable /home/
 COPY /config/gfs.zip /home/
+COPY /config/SHAPES.zip /home/
 COPY /config/namelist.wps /home/
 COPY /config/namelist.input /home/
 COPY /config/RunWRF_JN_00.sh /home/
@@ -63,6 +64,7 @@ RUN mkdir WRF && \
     chmod 777 /home/WRF/gfs/bin/wgrib2 && \
     chmod 777 /home/WRF/AUXILIARES/ARWpost/ARWpost.exe && \
     mv /home/get_gfs-grib2_CARIBE_54h-025.sh /home/WRF/gfs/bin/ && \
+    unzip /home/SHAPES.zip -d /home/WRF/AUXILIARES/ && \
     mv /home/datos00_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos00_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos12_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
