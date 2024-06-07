@@ -178,15 +178,15 @@ fileOut="namelistOut.input"
 ############################################DOMINIO 1##############################################
 echo "Editando fichero namelist.ARWpost"
 #############Editar fichero namelist.ARWpost###########
-sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_00:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ input_root_name = .*/ input_root_name = '\'''$prefigWRFd1$YY'-'$MM'-'$DD'_00:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ input_root_name = .*/ input_root_name = '\'''$prefigWRFd1$YY'-'$MM'-'$DD'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
@@ -210,15 +210,15 @@ fileOut="namelistOut.input"
 ############################################DOMINIO 1##############################################
 echo "Editando fichero namelist.ARWpost"
 #############Editar fichero namelist.ARWpost###########
-sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_00:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ start_date = .*/ start_date = '\'''$YY'-'$MM'-'$DD'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_06:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ end_date = .*/ end_date = '\'''$YYf'-'$MMf'-'$DDf'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
-sed -e '1,20s/ input_root_name = .*/ input_root_name = '\'''$prefigWRFd2$YY'-'$MM'-'$DD'_00:00:00'\'',/g' $fileInt > $fileOut
+sed -e '1,20s/ input_root_name = .*/ input_root_name = '\'''$prefigWRFd2$YY'-'$MM'-'$DD'_12:00:00'\'',/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ####
