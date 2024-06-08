@@ -18,6 +18,9 @@ YY=`date +%Y`
 MM=`date +%m`
 DD=`date +%d`
 
+#YY=2024
+#MM=06
+#DD=07
 
 ###############
 P=12
@@ -30,6 +33,11 @@ dias=$(($PL/24))
 YYf=`date --date='+'$dias' day' +%Y`
 MMf=`date --date='+'$dias' day' +%m`
 DDf=`date --date='+'$dias' day' +%d`
+
+#YYf=2024
+#MMf=06
+#DDf=08
+
 
 
 prefigWRFd1="wrfout_d01_"
@@ -235,8 +243,6 @@ ulimit -s unlimited
 echo "Terninado de correr el ARWpost"
 
 
-
-
 cd $EJEC_GRADS
 fileInt="datos12_d01_Honduras_HRes.gs"
 fileOut="datosOut_d01_Honduras_HRes.gs"
@@ -251,7 +257,6 @@ echo "Haciendo datos con el GRADS"
 grads -lcb "datos12_d01_Honduras_HRes.gs"
 
 
-
 cd $EJEC_GRADS
 fileInt="datos12_d02_Honduras_HRes.gs"
 fileOut="datosOut_d02_Honduras_HRes.gs"
@@ -263,7 +268,6 @@ mv  $fileOut $fileInt
 ###################
 echo "Terminado editando fichero datos.gs $DOM1"
 echo "Haciendo datos con el GRADS"
-grads -lcb "datos12_d02_Honduras_HRes.gs
-
+grads -lcb "datos12_d02_Honduras_HRes.gs"
 exit
 

@@ -23,9 +23,9 @@ DD=`date +%d`
 #MM=`date --date='-4 day' +%m`
 #DD=`date --date='-4 day' +%d`
 
-#YY=2022
-#MM=11
-#DD=01
+#YY=2024
+#MM=06
+#DD=07
 
 
 ###############
@@ -40,9 +40,9 @@ YYf=`date --date='+'$dias' day' +%Y`
 MMf=`date --date='+'$dias' day' +%m`
 DDf=`date --date='+'$dias' day' +%d`
 
-#YYf=2022
-#MMf=11
-#DDf=03
+#YYf=2024
+#MMf=06
+#DDf=08
 
 
 prefigWRFd1="wrfout_d01_"
@@ -269,7 +269,7 @@ fileInt="datos00_d02_Honduras_HRes.gs"
 fileOut="datosOut_d02_Honduras_HRes.gs"
 echo "Editando fichero datos.gs $DOM2"
 #############Editar fichero datos.gs###################
-sed -e '1,3s/.*open .*/'\''open '\\/'home'\\/'WRF'\\/'AUXILIARES'\\/'ARWpost'\\/''$prefigARWd1$YY'-'$MM'-'$DD'.ctl'\''''/g' $fileInt > $fileOut
+sed -e '1,3s/.*open .*/'\''open '\\/'home'\\/'WRF'\\/'AUXILIARES'\\/'ARWpost'\\/''$prefigARWd2$YY'-'$MM'-'$DD'.ctl'\''''/g' $fileInt > $fileOut
 rm $fileInt
 mv  $fileOut $fileInt
 ###################
