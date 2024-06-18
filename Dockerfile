@@ -1,5 +1,8 @@
 FROM ubuntu:20.04
 
+# Set non-interactive mode for package installation
+ENV DEBIAN_FRONTEND noninteractive
+
 # Set the working directory
 WORKDIR /home
 
@@ -11,23 +14,7 @@ VOLUME /home/input
 VOLUME /home/output
 
 # Copy necessary files to the container
-COPY /config/Build_WRF_and_WPS_V40_v2.zip /home/
-COPY /config/automation_scripts.zip /home/
-COPY /config/Vtable /home/
-COPY /config/gfs.zip /home/
-COPY /config/SHAPES.zip /home/
-COPY /config/namelist.wps /home/
-COPY /config/namelist.input /home/
-COPY /config/RunWRF_JN_00.sh /home/
-COPY /config/RunWRF_JN_12.sh /home/
-COPY /config/get_gfs-grib2_CARIBE_54h-025.sh /home/
-COPY /config/datos00_d01_Honduras_HRes.gs /home/
-COPY /config/datos00_d02_Honduras_HRes.gs /home/
-COPY /config/datos12_d01_Honduras_HRes.gs /home/
-COPY /config/datos12_d02_Honduras_HRes.gs /home/
-
-# Set non-interactive mode for package installation
-ENV DEBIAN_FRONTEND noninteractive
+COPY /config/* /home/
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
