@@ -36,7 +36,9 @@ RUN apt-get update && apt-get install -y \
     wget \
     csh \
     unzip \
-    python3 \
+    software-properties-common \
+    python3.9 \
+    python3.9-dev \
     python3-pip \
     git \
     && rm -rf /var/lib/apt/lists/*
@@ -60,7 +62,7 @@ RUN mkdir WRF && \
     mv /home/datos00_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos12_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos12_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
-    pip3 install git+https://github.com/CIAT-DAPA/agrilac_wrf_postprocessing && \
+    python3.9 -m pip install git+https://github.com/CIAT-DAPA/agrilac_wrf_postprocessing && \
     wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
