@@ -10,7 +10,7 @@ EJEC_GRADS="/home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin"
 #WRFDIR="/home/gfs/work"
 WRFDIR="/home/WRF/gfs/GFS-grib2/DATA"
 DATDIRWRF="/home/WRF/gfs/GFS-grib2"
-
+OUTPUT_PATH="/home/output"
 
 fechaIni=`date +20%y%m%d`
 YYMMDD=`date +%y%m%d`
@@ -80,6 +80,13 @@ tar -xzvf $prefigGFS$YY$MM$DD"00.tar.gz"
 rm $prefigGFS$YY$MM$DD"00.tar.gz"
 ###############################################
 
+########CREATE OUTPUTS FOLDER####################
+mkdir -p $OUTPUT_PATH"/wrf"
+mkdir -p $OUTPUT_PATH"/grads"
+mkdir -p $OUTPUT_PATH"/postprocessing"
+
+
+###############################################
 
 cd $EJEC_WPS
 rm met_em*
@@ -182,6 +189,9 @@ nohup mpirun -np 12 ./wrf.exe
 ulimit -s unlimited
 echo "Copiando archivos para ARWPost"
 cd $EJEC_ARWPost
+cp $EJEC_WRF"/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf"
+cp $EJEC_WRF"/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf"
+
 mv $EJEC_WRF"/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
 mv $EJEC_WRF"/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
 mv $EJEC_WRF"/"$prefigWRFd3$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
@@ -276,5 +286,12 @@ mv  $fileOut $fileInt
 echo "Terminado editando fichero datos.gs $DOM2"
 echo "Haciendo datos con el GRADS"
 grads -lcb "datos00_d02_Honduras_HRes.gs"
+
+cp -r /home/WRF/SALIDAS_MAPAS-00 $OUTPUT_PATH"/grads"
+
+wrf_postprocessing -i $OUTPUT_PATH"/wrf" -o $OUTPUT_PATH"/postprocessing"
+
+python /home/email.py
+
 exit
 

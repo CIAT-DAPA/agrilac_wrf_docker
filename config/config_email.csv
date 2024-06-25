@@ -1,0 +1,2 @@
+subject,body,to_email,from_email,smtp_server,smtp_port,login,password,directory
+"Salidas WRF","Imagenes de salida del WRF","santiago_123x@hotmail.com","wrfresults2024@gmail.com","smtp.gmail.com",587,"wrfresults2024@gmail.com","xxxx","D:\Code\Honduras\Docker\postprocessing\outputs"
