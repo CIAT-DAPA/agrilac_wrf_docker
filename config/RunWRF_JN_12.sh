@@ -285,7 +285,7 @@ cp -r /home/WRF/SALIDAS_MAPAS-12 $OUTPUT_PATH"/grads"
 
 wrf_postprocessing -i $OUTPUT_PATH"/wrf" -o $OUTPUT_PATH"/postprocessing"
 
-python /home/send_email.py
+python3 /home/send_email.py
 
 exit
 

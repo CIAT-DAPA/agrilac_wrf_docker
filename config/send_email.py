@@ -71,6 +71,8 @@ def main():
     # Enviar el correo
     send_email_with_attachments(subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, image_paths)
 
+    print("Se ha enviado el email con las imagenes")
+
 # Ejecutar la función principal
 if __name__ == "__main__":
     main()
