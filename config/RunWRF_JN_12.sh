@@ -185,8 +185,10 @@ nohup mpirun -np 12 ./wrf.exe
 ulimit -s unlimited
 echo "Copiando archivos para ARWPost"
 cd $EJEC_ARWPost
-cp $EJEC_WRF"/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf"
-cp $EJEC_WRF"/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf"
+cp $EJEC_WRF"/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF".nc"
+cp $EJEC_WRF"/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF".nc"
+cp $EJEC_WRF"/"$prefigWRFd3$YY"-"$MM"-"$DD$posfigWRF $OUTPUT_PATH"/wrf/"$prefigWRFd3$YY"-"$MM"-"$DD$posfigWRF".nc"
+
 mv $EJEC_WRF"/"$prefigWRFd1$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
 mv $EJEC_WRF"/"$prefigWRFd2$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
 mv $EJEC_WRF"/"$prefigWRFd3$YY"-"$MM"-"$DD$posfigWRF $EJEC_ARWPost
