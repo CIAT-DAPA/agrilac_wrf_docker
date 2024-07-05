@@ -84,6 +84,8 @@ rm $prefigGFS$YY$MM$DD"00.tar.gz"
 mkdir -p $OUTPUT_PATH"/wrf"
 mkdir -p $OUTPUT_PATH"/grads"
 mkdir -p $OUTPUT_PATH"/postprocessing"
+mkdir -p $OUTPUT_PATH"/data"
+mkdir -p $OUTPUT_PATH"/shapefile"
 
 
 ###############################################
@@ -290,7 +292,7 @@ grads -lcb "datos00_d02_Honduras_HRes.gs"
 
 cp -r /home/WRF/SALIDAS_MAPAS-00 $OUTPUT_PATH"/grads"
 
-wrf_postprocessing -i $OUTPUT_PATH"/wrf" -o $OUTPUT_PATH"/postprocessing"
+wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
 python3 /home/send_email.py
 
