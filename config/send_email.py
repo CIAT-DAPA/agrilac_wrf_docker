@@ -2,6 +2,7 @@ import smtplib
 import os
 import glob
 import csv
+import math
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
@@ -55,7 +56,7 @@ def main():
     config = read_config_from_csv(csv_file)
 
     # Extraer los parámetros de configuración
-    subject = config['subject']
+    subject_template = config['subject']
     body = config['body']
     to_emails = config['to_email'].split(',')  # Convertir a lista de correos electrónicos
     from_email = config['from_email']
@@ -74,11 +75,23 @@ def main():
         image_paths = find_images(subdirectory, "png")
 
         if image_paths:
-            # Enviar el correo
-            base = os.path.basename(subdirectory)
-            subject = f"{subject} dominio: {base.split('_')[1]}"
-            send_email_with_attachments(subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, image_paths)
-            print(f"Se ha enviado el email con las imágenes de la carpeta: {subdirectory}")
+            # Dividir las imágenes en grupos para enviar en correos electrónicos separados
+            max_attachments_per_email = 70  # Número máximo de imágenes por correo electrónico
+            num_emails = math.ceil(len(image_paths) / max_attachments_per_email)
+
+            for i in range(num_emails):
+                start_idx = i * max_attachments_per_email
+                end_idx = (i + 1) * max_attachments_per_email
+                images_chunk = image_paths[start_idx:end_idx]
+
+                if images_chunk:
+                    base = os.path.basename(subdirectory)
+                    chunk_subject = f"{subject_template} dominio: {base.split('_')[1]} ({i + 1}/{num_emails})"
+                    send_email_with_attachments(chunk_subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, images_chunk)
+                    print(f"Se ha enviado el email con las imágenes de la carpeta: {subdirectory} (parte {i + 1}/{num_emails})")
+                else:
+                    print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
+
         else:
             print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
 
