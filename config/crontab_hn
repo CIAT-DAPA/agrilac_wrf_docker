@@ -1,0 +1,5 @@
+# Ejecutar el script RunWRF_JN_00.sh a las 7 AM hora de Honduras
+0 7 * * * /home/WRF/EJECUTORES/RunWRF_JN_00.sh
+
+# Ejecutar el script RunWRF_JN_12.sh a las 12 PM hora de Honduras
+0 12 * * * /home/WRF/EJECUTORES/RunWRF_JN_12.sh

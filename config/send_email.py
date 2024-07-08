@@ -63,15 +63,24 @@ def main():
     smtp_port = int(config['smtp_port'])  # Asegurarse de que el puerto es un entero
     login = config['login']
     password = config['password']
-    directory = config['directory']
+    base_directory = config['directory']
 
-    # Encontrar todas las imágenes .png en el directorio y subdirectorios
-    image_paths = find_images(directory, "png")
+    # Encontrar todas las subcarpetas en el directorio base
+    subdirectories = [os.path.join(base_directory, d) for d in os.listdir(base_directory) if os.path.isdir(os.path.join(base_directory, d))]
 
-    # Enviar el correo
-    send_email_with_attachments(subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, image_paths)
+    # Iterar sobre cada subcarpeta
+    for subdirectory in subdirectories:
+        # Encontrar todas las imágenes .png en el subdirectorio
+        image_paths = find_images(subdirectory, "png")
 
-    print("Se ha enviado el email con las imagenes")
+        if image_paths:
+            # Enviar el correo
+            base = os.path.basename(subdirectory)
+            subject = f"{subject} dominio: {base.split('_')[1]}"
+            send_email_with_attachments(subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, image_paths)
+            print(f"Se ha enviado el email con las imágenes de la carpeta: {subdirectory}")
+        else:
+            print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
 
 # Ejecutar la función principal
 if __name__ == "__main__":

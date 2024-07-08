@@ -41,8 +41,13 @@ RUN apt-get update && apt-get install -y \
     python3.9-dev \
     python3-pip \
     git \
+    cron \
+    tzdata \
     && rm -rf /var/lib/apt/lists/*
 
+# Set timezone to Honduras
+RUN ln -sf /usr/share/zoneinfo/America/Tegucigalpa /etc/localtime && \
+    echo "America/Tegucigalpa" > /etc/timezone
 
 # Set up WRF and WPS
 RUN mkdir WRF && \
@@ -112,7 +117,6 @@ RUN cd /home/WRF/WPS-4.1/ && \
     ./compile && \
     mv /home/namelist.wps /home/WRF/WPS-4.1/
 
-
 RUN cd /home/WRF/ && \
     mkdir SALIDAS_MAPAS-00 && \
     mkdir SALIDAS_MAPAS-12 && \
@@ -125,7 +129,19 @@ RUN cd /home/WRF/ && \
     cd .. && \
     cp -r SALIDAS_MAPAS-00/* SALIDAS_MAPAS-12/ && \
     cd /home/WRF/WPS-4.1/ && \
+    sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_00.sh && \
+    sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
     ./geogrid.exe
 
+# Uncomment the following lines to configure the crontab
+# RUN cp /home/crontab_hn /etc/cron.d/crontab_hn && \
+#   chmod 0644 /etc/cron.d/crontab_hn && \
+#   crontab /etc/cron.d/crontab_hn
 
+# Ensure cron logs are visible
+#RUN touch /var/log/cron.log
+
+# Start cron and tail the log file to keep the container running
 CMD ["tail", "-f", "/dev/null"]
+#CMD cron && tail -f /var/log/cron.log
+
