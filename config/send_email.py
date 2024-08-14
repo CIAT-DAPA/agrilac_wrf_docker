@@ -59,11 +59,11 @@ def main():
     subject_template = config['subject']
     body = config['body']
     to_emails = config['to_email'].split(',')  # Convertir a lista de correos electrónicos
-    from_email = config['from_email']
-    smtp_server = config['smtp_server']
-    smtp_port = int(config['smtp_port'])  # Asegurarse de que el puerto es un entero
-    login = config['login']
-    password = config['password']
+    from_email = os.getenv("EMAIL_LOGIN")
+    smtp_server = os.getenv("SMTP_SERVER")
+    smtp_port = int(os.getenv("SMTP_PORT"))  # Asegurarse de que el puerto es un entero
+    login = os.getenv("EMAIL_LOGIN")
+    password = os.getenv("EMAIL_PASSWORD")
     base_directory = config['directory']
 
     # Encontrar todas las subcarpetas en el directorio base
@@ -76,7 +76,7 @@ def main():
 
         if image_paths:
             # Dividir las imágenes en grupos para enviar en correos electrónicos separados
-            max_attachments_per_email = 70  # Número máximo de imágenes por correo electrónico
+            max_attachments_per_email = 20  # Número máximo de imágenes por correo electrónico
             num_emails = math.ceil(len(image_paths) / max_attachments_per_email)
 
             for i in range(num_emails):

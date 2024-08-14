@@ -1,2 +1,2 @@
-subject,body,to_email,from_email,smtp_server,smtp_port,login,password,directory
-"Salidas WRF","Imagenes de salida del WRF","example@gmail.com","wrfresults2024@gmail.com","smtp.gmail.com",587,"wrfresults2024@gmail.com","xxxx","/home/output/postprocessing/"
+subject,body,to_email,directory,run_ETL
+"Salidas WRF","Imagenes de salida del WRF","example@gmail.com","/home/output/postprocessing/",1

@@ -1,5 +1,14 @@
-# Ejecutar el script RunWRF_JN_00.sh a las 7 AM hora de Honduras
-0 7 * * * /home/WRF/EJECUTORES/RunWRF_JN_00.sh
-
-# Ejecutar el script RunWRF_JN_12.sh a las 12 PM hora de Honduras
-0 12 * * * /home/WRF/EJECUTORES/RunWRF_JN_12.sh
+0 7 26 2 * /home/february_check.sh
+0 7 27 2 * /home/february_check.sh
+0 7 28 2 * /home/february_check.sh
+0 7 29 2 * /home/february_check.sh
+0 7 28 * * /home/run_days_before_1st.sh
+0 7 29 * * /home/run_days_before_1st.sh
+0 7 30 * * /home/run_days_before_1st.sh
+0 7 31 * * /home/run_days_before_1st.sh
+0 7 8 * * /home/run_days_before_11_and_21.sh
+0 7 9 * * /home/run_days_before_11_and_21.sh
+0 7 10 * * /home/run_days_before_11_and_21.sh
+0 7 18 * * /home/run_days_before_11_and_21.sh
+0 7 19 * * /home/run_days_before_11_and_21.sh
+0 7 20 * * /home/run_days_before_11_and_21.sh

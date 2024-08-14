@@ -296,5 +296,13 @@ wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
 python3 /home/send_email.py
 
+cd /home/etl_agroclimatic_bulletins
+
+virtualenv env
+
+python3 src/master.py
+
+deactivate
+
 exit
 

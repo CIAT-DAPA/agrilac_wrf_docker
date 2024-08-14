@@ -71,6 +71,14 @@ RUN mkdir WRF && \
     wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
+RUN git clone https://github.com/CIAT-DAPA/etl_agroclimatic_bulletins.git && \
+    python3.9 -m pip install virtualenv && \
+    cd etl_agroclimatic_bulletins && \
+    virtualenv env && \
+    /bin/bash -c "source env/bin/activate" && \
+    python3.9 -m pip install -r requirements.txt
+
+
 # Build WRF dependencies
 RUN cd /home/WRF && \
     /home/WRF/build_libs.csh && \
@@ -133,15 +141,15 @@ RUN cd /home/WRF/ && \
     sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
     ./geogrid.exe
 
-# Uncomment the following lines to configure the crontab
-# RUN cp /home/crontab_hn /etc/cron.d/crontab_hn && \
-#   chmod 0644 /etc/cron.d/crontab_hn && \
-#   crontab /etc/cron.d/crontab_hn
+RUN cp /home/crontab_hn /etc/cron.d/crontab_hn && \
+    chmod +x /home/february_check.sh && \
+    chmod +x /home/run_days_before_1st.sh && \
+    chmod +x /home/run_days_before_11_and_21.sh && \
+    chmod 0644 /etc/cron.d/crontab_hn && \
+    crontab /etc/cron.d/crontab_hn
 
-# Ensure cron logs are visible
-#RUN touch /var/log/cron.log
 
-# Start cron and tail the log file to keep the container running
-CMD ["tail", "-f", "/dev/null"]
-#CMD cron && tail -f /var/log/cron.log
+RUN touch /var/log/cron.log
+
+CMD cron && tail -f /var/log/cron.log
 
