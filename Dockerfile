@@ -72,10 +72,10 @@ RUN mkdir WRF && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
 RUN git clone https://github.com/CIAT-DAPA/etl_agroclimatic_bulletins.git && \
+    mkdir -p /home/config && \
+    mv /home/mask_honduras /home/config && \
     python3.9 -m pip install virtualenv && \
     cd etl_agroclimatic_bulletins && \
-    virtualenv env && \
-    /bin/bash -c "source env/bin/activate" && \
     python3.9 -m pip install -r requirements.txt
 
 
@@ -141,7 +141,11 @@ RUN cd /home/WRF/ && \
     sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
     ./geogrid.exe
 
-RUN cp /home/crontab_hn /etc/cron.d/crontab_hn && \
+RUN sed -i 's/\r$//' /home/crontab_hn && \
+    sed -i 's/\r$//' /home/february_check.sh && \
+    sed -i 's/\r$//' /home/run_days_before_1st.sh && \
+    sed -i 's/\r$//' /home/run_days_before_11_and_21.sh && \
+    cp /home/crontab_hn /etc/cron.d/crontab_hn && \
     chmod +x /home/february_check.sh && \
     chmod +x /home/run_days_before_1st.sh && \
     chmod +x /home/run_days_before_11_and_21.sh && \

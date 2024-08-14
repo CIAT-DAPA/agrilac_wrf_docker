@@ -1,2 +1,2 @@
-subject,body,to_email,directory,run_ETL
-"Salidas WRF","Imagenes de salida del WRF","example@gmail.com","/home/output/postprocessing/",1
+subject,body,to_email,directory
+"Salidas WRF","Imagenes de salida del WRF","example@gmail.com","/home/output/postprocessing/"

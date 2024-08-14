@@ -12,3 +12,4 @@
 0 7 18 * * /home/run_days_before_11_and_21.sh
 0 7 19 * * /home/run_days_before_11_and_21.sh
 0 7 20 * * /home/run_days_before_11_and_21.sh
+# Cron Ended
