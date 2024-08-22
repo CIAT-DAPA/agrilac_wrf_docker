@@ -292,7 +292,7 @@ grads -lcb "datos00_d02_Honduras_HRes.gs"
 
 cp -r /home/WRF/SALIDAS_MAPAS-00 $OUTPUT_PATH"/grads"
 
-wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
+/usr/local/bin/wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
 python3.9 /home/send_email.py
 
