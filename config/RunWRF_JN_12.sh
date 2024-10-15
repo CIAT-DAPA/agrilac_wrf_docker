@@ -289,9 +289,9 @@ cp -r /home/WRF/SALIDAS_MAPAS-12 $OUTPUT_PATH"/grads"
 
 /usr/local/bin/wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
-python3.9 /home/send_email.py
+python3.10 /home/send_email.py
 
-python3.9 /home/etl_agroclimatic_bulletins/src/master.py $YY'-'$MM'-'$DD /home None None None /home/output/postprocessing
+python3.10 /home/etl_agroclimatic_bulletins/src/master.py $YY'-'$MM'-'$DD /home None None None /home/output/postprocessing
 
 exit
 
