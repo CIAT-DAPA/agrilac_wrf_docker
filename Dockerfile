@@ -16,6 +16,9 @@ VOLUME /home/output
 # Copy necessary files to the container
 COPY /config/* /home/
 
+RUN apt-get update && apt-get install -y software-properties-common && \
+    add-apt-repository ppa:deadsnakes/ppa
+
 # Install dependencies
 RUN apt-get update && apt-get install -y \
     openssh-client \
@@ -40,6 +43,7 @@ RUN apt-get update && apt-get install -y \
     python3.10 \
     python3.10-dev \
     python3-pip \
+    python3.10-distutils \
     git \
     cron \
     tzdata \
@@ -48,6 +52,13 @@ RUN apt-get update && apt-get install -y \
 # Set timezone to Honduras
 RUN ln -sf /usr/share/zoneinfo/America/Tegucigalpa /etc/localtime && \
     echo "America/Tegucigalpa" > /etc/timezone
+
+RUN ln -sf /usr/bin/python3.10 /usr/bin/python3
+
+# Descargar e instalar pip
+RUN curl -sSL https://bootstrap.pypa.io/get-pip.py | python3.10
+
+RUN python3 -m pip install git+https://github.com/CIAT-DAPA/agrilac_wrf_postprocessing
 
 # Set up WRF and WPS
 RUN mkdir WRF && \
@@ -67,16 +78,15 @@ RUN mkdir WRF && \
     mv /home/datos00_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos12_d01_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
     mv /home/datos12_d02_Honduras_HRes.gs /home/WRF/AUXILIARES/grads-1.8/grads-1.8/bin/ && \
-    python3.10 -m pip install git+https://github.com/CIAT-DAPA/agrilac_wrf_postprocessing && \
     wget -O geog_high_res_mandatory.tar.gz "https://cgiar-my.sharepoint.com/:u:/g/personal/s_calderon_cgiar_org/EdwYmtChgwxJryOWXoNf5RYBfk08tT3TTJfuTLpZlaFF7w?e=5yQZVp&download=1" && \
     tar -xzvf geog_high_res_mandatory.tar.gz -C /home/WRF/
 
 RUN git clone https://github.com/CIAT-DAPA/etl_agroclimatic_bulletins.git && \
     mkdir -p /home/config && \
     mv /home/mask_honduras /home/config && \
-    python3.10 -m pip install virtualenv && \
+    python3 -m pip install virtualenv && \
     cd etl_agroclimatic_bulletins && \
-    python3.10 -m pip install -r requirements.txt
+    python3 -m pip install -r requirements.txt
 
 
 # Build WRF dependencies
