@@ -293,5 +293,9 @@ python3 /home/send_email.py
 
 python3 /home/etl_agroclimatic_bulletins/src/master.py $YY'-'$MM'-'$DD /home None None None /home/output/postprocessing
 
+rm /home/WRF/AUXILIARES/ARWpost/wrfout_d0*
+
+rm /home/WRF/AUXILIARES/ARWpost/ARWout_d0*
+
 exit
 
