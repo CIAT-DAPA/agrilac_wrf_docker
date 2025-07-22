@@ -82,6 +82,7 @@ rm $prefigGFS$YY$MM$DD"00.tar.gz"
 
 ########CREATE OUTPUTS FOLDER####################
 mkdir -p $OUTPUT_PATH"/wrf"
+mkdir -p $OUTPUT_PATH"/wrf_bk"
 mkdir -p $OUTPUT_PATH"/grads"
 mkdir -p $OUTPUT_PATH"/postprocessing"
 mkdir -p $OUTPUT_PATH"/data"
@@ -294,13 +295,24 @@ cp -r /home/WRF/SALIDAS_MAPAS-00 $OUTPUT_PATH"/grads"
 
 /usr/local/bin/wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
-python3 /home/send_email.py
+mv -r $OUTPUT_PATH"/wrf/*" $OUTPUT_PATH"/wrf_bk"
 
-python3 /home/etl_agroclimatic_bulletins/src/master.py $YY'-'$MM'-'$DD /home None None None /home/output/postprocessing
+if ! python3 /home/send_email.py; then
+    echo "ERROR: Falló la ejecución de send_email.py"
+fi
 
-rm /home/WRF/AUXILIARES/ARWpost/wrfout_d0*
+if ! python3 /home/etl_agroclimatic_bulletins/src/master.py $YY'-'$MM'-'$DD /home None None None /home/output/postprocessing; then
+    echo "ERROR: Falló la ejecución de master.py del ETL"
+fi
 
-rm /home/WRF/AUXILIARES/ARWpost/ARWout_d0*
+echo "Iniciando limpieza de archivos temporales..."
+
+rm -f /home/WRF/AUXILIARES/ARWpost/wrfout_d0*
+rm -f /home/WRF/AUXILIARES/ARWpost/ARWout_d0*
+
+rm -f /home/WRF/WRF-4.1.2/run/met_em.d0*.nc
+
+echo "Limpieza completada."
 
 exit
 

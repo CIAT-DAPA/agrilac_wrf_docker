@@ -51,49 +51,53 @@ def main():
     """Función principal para leer configuración, encontrar imágenes y enviar el correo."""
     # Ruta al archivo CSV
     csv_file = '/home/input/config_email.csv'
+    try:
 
-    # Leer la configuración desde el archivo CSV
-    config = read_config_from_csv(csv_file)
+        # Leer la configuración desde el archivo CSV
+        config = read_config_from_csv(csv_file)
 
-    # Extraer los parámetros de configuración
-    subject_template = config['subject']
-    body = config['body']
-    to_emails = config['to_email'].split(',')  # Convertir a lista de correos electrónicos
-    from_email = os.getenv("EMAIL_LOGIN")
-    smtp_server = os.getenv("SMTP_SERVER")
-    smtp_port = int(os.getenv("SMTP_PORT"))  # Asegurarse de que el puerto es un entero
-    login = os.getenv("EMAIL_LOGIN")
-    password = os.getenv("EMAIL_PASSWORD")
-    base_directory = config['directory']
+        # Extraer los parámetros de configuración
+        subject_template = config['subject']
+        body = config['body']
+        to_emails = config['to_email'].split(',')  # Convertir a lista de correos electrónicos
+        from_email = os.getenv("EMAIL_LOGIN")
+        smtp_server = os.getenv("SMTP_SERVER")
+        smtp_port = int(os.getenv("SMTP_PORT"))  # Asegurarse de que el puerto es un entero
+        login = os.getenv("EMAIL_LOGIN")
+        password = os.getenv("EMAIL_PASSWORD")
+        base_directory = config['directory']
 
-    # Encontrar todas las subcarpetas en el directorio base
-    subdirectories = [os.path.join(base_directory, d) for d in os.listdir(base_directory) if os.path.isdir(os.path.join(base_directory, d))]
+        # Encontrar todas las subcarpetas en el directorio base
+        subdirectories = [os.path.join(base_directory, d) for d in os.listdir(base_directory) if os.path.isdir(os.path.join(base_directory, d))]
 
-    # Iterar sobre cada subcarpeta
-    for subdirectory in subdirectories:
-        # Encontrar todas las imágenes .png en el subdirectorio
-        image_paths = find_images(subdirectory, "png")
+        # Iterar sobre cada subcarpeta
+        for subdirectory in subdirectories:
+            # Encontrar todas las imágenes .png en el subdirectorio
+            image_paths = find_images(subdirectory, "png")
 
-        if image_paths:
-            # Dividir las imágenes en grupos para enviar en correos electrónicos separados
-            max_attachments_per_email = 20  # Número máximo de imágenes por correo electrónico
-            num_emails = math.ceil(len(image_paths) / max_attachments_per_email)
+            if image_paths:
+                # Dividir las imágenes en grupos para enviar en correos electrónicos separados
+                max_attachments_per_email = 20  # Número máximo de imágenes por correo electrónico
+                num_emails = math.ceil(len(image_paths) / max_attachments_per_email)
 
-            for i in range(num_emails):
-                start_idx = i * max_attachments_per_email
-                end_idx = (i + 1) * max_attachments_per_email
-                images_chunk = image_paths[start_idx:end_idx]
+                for i in range(num_emails):
+                    start_idx = i * max_attachments_per_email
+                    end_idx = (i + 1) * max_attachments_per_email
+                    images_chunk = image_paths[start_idx:end_idx]
 
-                if images_chunk:
-                    base = os.path.basename(subdirectory)
-                    chunk_subject = f"{subject_template} dominio: {base.split('_')[1]} ({i + 1}/{num_emails})"
-                    send_email_with_attachments(chunk_subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, images_chunk)
-                    print(f"Se ha enviado el email con las imágenes de la carpeta: {subdirectory} (parte {i + 1}/{num_emails})")
-                else:
-                    print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
+                    if images_chunk:
+                        base = os.path.basename(subdirectory)
+                        chunk_subject = f"{subject_template} dominio: {base.split('_')[1]} ({i + 1}/{num_emails})"
+                        send_email_with_attachments(chunk_subject, body, to_emails, from_email, smtp_server, smtp_port, login, password, images_chunk)
+                        print(f"Se ha enviado el email con las imágenes de la carpeta: {subdirectory} (parte {i + 1}/{num_emails})")
+                    else:
+                        print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
 
-        else:
-            print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
+            else:
+                print(f"No se encontraron imágenes en la carpeta: {subdirectory}")
+    except Exception as e:
+        print(f"Error sending email: {str(e)}")
+        raise  # Re-lanzar la excepción para que el script bash la capture
 
 # Ejecutar la función principal
 if __name__ == "__main__":
