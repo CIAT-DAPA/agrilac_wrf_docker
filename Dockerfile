@@ -149,6 +149,7 @@ RUN cd /home/WRF/ && \
     cd /home/WRF/WPS-4.1/ && \
     sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_00.sh && \
     sed -i 's/\r$//' /home/WRF/EJECUTORES/RunWRF_JN_12.sh && \
+    sed -i 's/\r$//' /home/WRF/gfs/bin/get_gfs-grib2_CARIBE_54h-025.sh && \
     ./geogrid.exe
 
 RUN sed -i 's/\r$//' /home/crontab_hn && \
