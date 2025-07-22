@@ -295,7 +295,7 @@ cp -r /home/WRF/SALIDAS_MAPAS-00 $OUTPUT_PATH"/grads"
 
 /usr/local/bin/wrf_postprocessing -i $OUTPUT_PATH -o $OUTPUT_PATH"/postprocessing"
 
-mv -r $OUTPUT_PATH"/wrf/*" $OUTPUT_PATH"/wrf_bk"
+mv $OUTPUT_PATH"/wrf/*" $OUTPUT_PATH"/wrf_bk"
 
 if ! python3 /home/send_email.py; then
     echo "ERROR: Falló la ejecución de send_email.py"
